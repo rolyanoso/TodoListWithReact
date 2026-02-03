@@ -1,3 +1,22 @@
+# 📝 Todo List Application
+
+A simple and user-friendly Todo List application built to manage daily tasks efficiently.
+
+## 🚀 Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Clean and minimal UI
+- Responsive design
+
+## 🛠️ Built With
+- JavaScript
+- React 
+- HTML5
+- CSS3
+
+⬇️ Screenshots of app are below ⬇️
+-----------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +87,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---------------------------------------------
+📸Screenshots :
+#Add Task:
+#Update Task:
+#Delete Task:
+#All Tasks:
+#Completed Tasks:
+#Incomplete Tasks:
