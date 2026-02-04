@@ -111,12 +111,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Incomplete Tasks
 ![Incomplete Tasks](./screenshots/incomplete.png)
 
-
-
-
-
-
-
-
-#Completed Tasks:
-#Incomplete Tasks:
